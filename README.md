@@ -1,4 +1,4 @@
-# Install on switching to new branch
+# NPM Install on switching to new branch
 
 Simple bash script to run npm install on switching between two git branches.
 
